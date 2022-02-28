@@ -1,0 +1,839 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aquamusæ: or, Cacafogo, cacadæmon, Captain George Wither wrung in the withers. Being a short lashing satyre, wherein the juggling rebell is compendiously finely firked and jerked, for his late railing pamphlet against the King and state, called Campo-musæ. By John Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95522</idno>
+            <idno type="STC">Wing T432</idno>
+            <idno type="STC">Thomason E269_22</idno>
+            <idno type="STC">ESTC R212370</idno>
+            <idno type="EEBO-CITATION">99870994</idno>
+            <idno type="PROQUEST">99870994</idno>
+            <idno type="VID">123392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E269[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aquamusæ: or, Cacafogo, cacadæmon, Captain George Wither wrung in the withers. Being a short lashing satyre, wherein the juggling rebell is compendiously finely firked and jerked, for his late railing pamphlet against the King and state, called Campo-musæ. By John Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the fourth yeare of the grand rebellion. [1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication suggested by Madan.</note>
+                  <note>Printed by L. Lichfield. Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "feb: 17th Oxon: 1644" [i.e. 1645].</note>
+                  <note>Reproduction of the original in the the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wither, George, 1588-1667. --  Campo-musæ --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123392:1" rendition="simple:additions"/>
+            <p>
+               <hi>AQ<g ref="char:V">Ʋ</g>A-M<g ref="char:V">Ʋ</g>SAE:</hi>
+OR,
+Cacafogo, Cacadaemon,
+CAPTAIN GEORGE WITHER
+Wrung in the Withers.</p>
+            <p>Being a ſhort laſhing Satyre, wherein the
+Juggling Rebell is Compendiouſly-finely
+Firked and Jerked, for his late railing Pamphlet
+againſt the King and State, called
+CAMPO-MUSAE.</p>
+            <q>Deus dabit his quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Funem.</q>
+            <p>By JOHN TAYLOR.</p>
+            <p>Printed in the fourth Yeare of
+the Grand Rebellion.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:123392:2"/>
+            <pb facs="tcp:123392:2"/>
+            <head>To the Diſhonourable, Diſworſhip<g ref="char:EOLhyphen"/>full,
+Diſloyall, and deteſtable the Rebells,
+of what Nation, Sex, Sect, Degree, Quality, Ranke,
+Age, Function, or Condition whatſoever.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Rave, Bold, Adventerors, and unmatchable
+Patrons, It was my chance (long ſince) to read
+a witty Pamphlet, Intituled, <hi>Peirce Penniles
+his Supplication,</hi> It was Dedicated to the De<g ref="char:EOLhyphen"/>vill,
+there were in it many Satyricall true <hi>Jerks,
+Jybes, Ieſts, and Ieeres,</hi> which reflected and
+trencht much upon the Graund Signior <hi>Sultan Sathans</hi> Reputa<g ref="char:EOLhyphen"/>tion,
+which were much diſtaſtfull to his Infernall Hell-hood,
+with all the reſt of his Members of that Lower Houſe. In l<g ref="char:EOLhyphen"/>mitation
+of that Supplication, dedicated to the Devill, I am
+bold to Dedicate this my Satyricall Poem to you his deare Adop<g ref="char:EOLhyphen"/>ted
+Sons (the Rebells) not doubting, but you will Patronize it,
+and Reward the Writer, as your Father would have done <hi>Tom
+Naſh,</hi> for his Penniles Volumne; I know that you have more
+Power then your Syre, and for State Policy, you have ſo farre
+gone beyond him, that he bluſhes for ſhame, to heare how the
+World laughes him to ſcorne, for being out-ſtrip'd and over<g ref="char:EOLhyphen"/>reach'd
+in his owne Art, by his owne Sons, Schollers, and Ser<g ref="char:EOLhyphen"/>vants.
+He did once (ſawcily and fooliſhly) offer to give all the
+Kingdomes of the World, but you are better Husbands then to
+<pb facs="tcp:123392:3"/>
+               <pb facs="tcp:123392:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:123392:4"/>
+give Kingdomes, for you have done your beſt and worſt to take
+Kingdomes and Principalities, you have ſold <hi>Ireland,</hi> and the
+Lives and Eſtates of 100000 People there, and with the Mo<g ref="char:EOLhyphen"/>neys
+which you received from your Mungrell Merchant Ad<g ref="char:EOLhyphen"/>venturers
+for <hi>Iriſh</hi> Land, you have bought, or hired, <hi>Scottiſh</hi>
+Rebells on purpoſe to make an <hi>Engliſh</hi> Invaſion. To effect which
+moſt unparalell'd deſignes, your Pulpits, and Pamphlets have
+been moſt diligent and uſefull Aggravators and Propagators,
+amongſt whom, and of which unnumber'd Numberleſſe, dam<g ref="char:EOLhyphen"/>nable
+Number<g ref="char:punc">▪</g> Captaine <hi>George Wyther,</hi> is not to be accoun<g ref="char:EOLhyphen"/>ted
+a ſmall Foole; His <hi>Campo-Muſae,</hi> doth declare the Gentle<g ref="char:EOLhyphen"/>mans
+Loyalty with his Book, called, <hi>Brittaines Remembrancer,</hi>
+(in the 8<hi rend="sup">th</hi> and 9<hi rend="sup">th</hi> 
+               <hi>Cantoes</hi>) doe ſhew his Art in Adulation, and
+whoſoever either hath read, or will or can read, underſtand and
+conſider thoſe his two Books, may palpably perceive the conſtancy
+of this Capricious Carpet Captaine, and alſo diſcerne what
+Spirit of Contradiction inspir'd his Muſe. I have briefly Writ
+this my Satyre as a gentle Reproofe of his Perfidious unmannerly
+Mutability, wherein you may deſcry not onely his Rebellious
+<hi>Legerdemaine,</hi> but all his Maintainers, Patrons, Adorers,
+Admirers, and Rewarders, may ſee and be ſorry for their Er<g ref="char:EOLhyphen"/>rors;
+He was a man that I have theſe 35 yeares loved and re<g ref="char:EOLhyphen"/>ſpected,
+becauſe I thought him ſimply honeſt; But now his con<g ref="char:EOLhyphen"/>ceal'd
+Hypocrifie is by himſelfe diſcovered, I am bold to take leave
+of him in theſe following lines.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:123392:4"/>
+            <head>AQ<g ref="char:V">Ʋ</g>A-MVSAE.</head>
+            <head type="sub">An Anſwer to WITHER his
+CAMPO-MUSAE.</head>
+            <l>HA, let me ſee, is that that Traiterous <hi>Thing,</hi>
+            </l>
+            <l>Whoſe <hi>Campo-Muſae</hi> hath Revil'd the King:</l>
+            <l>Sure 'tis not he; yet like him much he looks</l>
+            <l>That late compos'd ſuch ſinne Confounding Books,</l>
+            <l>In ſharp <hi>Ramnuſiaes</hi> Piſle, his Pen he dip'd</l>
+            <l>And <hi>Brittaines</hi> Great <hi>Abuſes Whipt and Strip'd,</hi>
+            </l>
+            <l>And in his <hi>Motto</hi> did with Braggs declare</l>
+            <l>That in himſelfe all Vertues perfect were.</l>
+            <l>Art thou that wonder of the Vniverſe</l>
+            <l>Whoſe lines Heav'n, Hell, and Through the World did Pierce,</l>
+            <l>In Sixteen hundred twenty ſix, that yeare</l>
+            <l>Thou Wr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t'ſt a Book (<hi>Brittains Remembrancer</hi>)</l>
+            <l>And in that Book with Boaſting Boldneſſe, then</l>
+            <l>Thou Vaunt'ſt thy ſelfe a Miracle of Men,</l>
+            <l>For never Hippocrite did ſhew more skill</l>
+            <l>And Pend ſo Well, and yet intend ſo ill.</l>
+            <l>In thy third Page, thou in that Preface ſay'ſt,</l>
+            <l>That <hi>thou his Majeſties High favour Weighſt</hi>
+            </l>
+            <l>And that <hi>thou holdſt His Grace more deere to thee</hi>
+            </l>
+            <l>And Precious, then thy very ſoule could be.</l>
+            <l>Thy fourth Page Saies, thy Muſe Spewes not Baſe Rimes</l>
+            <l>'Gainſt Publique Perſons (but to Laſh the Times)</l>
+            <l>Thou applie'ſt King <hi>Davids Nine and Thirtieth Pſalme</hi>
+            </l>
+            <l>His Stormes of Griefes, his hidden fire, his Calme,</l>
+            <l>All which Blaſphemouſly thy ſelfe Applieſt</l>
+            <l>Vnto thy ſelfe; And in Applying Lyeſt.</l>
+            <l>Thy ninth Page ſaies, <hi>bad Tongues will ſet their ſtings</hi>
+            </l>
+            <l>
+               <g ref="char:V">Ʋ</g>njuſtly, on the Sacred names of Kings.</l>
+            <l>
+               <pb n="2" facs="tcp:123392:5"/>
+Thy tenth Page truely doth the Truth Repeat,</l>
+            <l>That the King ſits in God Almighties Seat.</l>
+            <l>And thus (with Phariſaicall Oſtentation)</l>
+            <l>Thou ſaiſt <hi>Commiſſion, (Calling, Revelation,)</hi>
+            </l>
+            <l>Were given thee from above, Reader, pray Note,</l>
+            <l>How this Impoſture late hath turn'd his Coate;</l>
+            <l>View but his <hi>Campo M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſae,</hi> and Conſer</l>
+            <l>The words and Senſe, with his <hi>Remembrancer,</hi>
+            </l>
+            <l>And wavering Lies and Lines <hi>(Black upon White)</hi>
+            </l>
+            <l>Shewes rayling Hypocrite, <hi>Hermophrodite,</hi>
+            </l>
+            <l>Nor Male or Female, neither both or neither</l>
+            <l>Much more Incongruent then flint and feather.</l>
+            <l>Is this the Vulgar Vaſſalls, Valiant <hi>George</hi>
+            </l>
+            <l>Whoſe Whileom Muſe did oracles diſgorge,</l>
+            <l>Who was admir'd of every Man and Woeman</l>
+            <l>Of all ſorts, from the Tinker to the Broomeman,</l>
+            <l>Sure this cannot be he, And yet 'tis he,</l>
+            <l>Then how (the Devill) can he thus changed be,</l>
+            <l>Can he, that ſo much honeſty profeſt</l>
+            <l>(As if all honeſty had been in's Breſt)</l>
+            <l>Can he be Metamorphos'd to a Knave,</l>
+            <l>And write and fight, his Soveraigne to out-brave,</l>
+            <l>Can his Lines Lye (that ſweet Peace did deſire)</l>
+            <l>Yet ſtirs up Warres, to ſet the Realme on fire,</l>
+            <l>All this is poſſible, all this is done,</l>
+            <l>This is <hi>George Wyther,</hi> his owne Mothers Son.</l>
+            <l>Now he's great <hi>George</hi> a Horſe-back, (mounted high)</l>
+            <l>Dares to affront, and Raile 'gainſt Majeſty,</l>
+            <l>This is the <hi>George</hi> thus alterd, thus all-turd</l>
+            <l>Whoſe Satyres Gooſe-quill is transform'd t' aſword,</l>
+            <l>For whoſe ſake, I proteſt it with my Pen,</l>
+            <l>I never will truſt Wall-eyd Jade agen.</l>
+            <l>Brave <hi>George,</hi> no <hi>George</hi> of <hi>Cappodocia,</hi>
+            </l>
+            <l>But famous <hi>George</hi> of <hi>Braggodocia,</hi>
+            </l>
+            <l>Ride on fierce <hi>George,</hi> untill thy high deſert</l>
+            <l>By Tranſmutation, make thy Horſe a Cart.</l>
+            <l>What contraries doth thy mad Braines poſſeſſe</l>
+            <l>That with a Traiterous Warre doth Peace profeſſe,</l>
+            <l>
+               <pb n="3" facs="tcp:123392:5"/>
+That playes at faſt, and looſe, with handy dandy</l>
+            <l>Mak'ſt Subjects 'gainſt their Soveraigne Bullets bandy,</l>
+            <l>Much miſchiefe in that double mind did lurke,</l>
+            <l>And Hell it ſelfe, ſet that dam'd <hi>Muſe</hi> a worke.</l>
+            <l>Was ever ſuch vile fragment Riming Raggs</l>
+            <l>Patch'd up together with abuſive Braggs;</l>
+            <l>That who ſo doth his <hi>Campo-Muſae</hi> Read,</l>
+            <l>Will judge the Devill did his Invention Lead;</l>
+            <l>Like to a Ieſuited ſubtill Fox,</l>
+            <l>His Honeſt Writings but a Paradox:</l>
+            <l>His Verities are falſe, his Errors true,</l>
+            <l>Such Riffe Raffe hotch Potch, his ſweet <hi>Muſe doth Brew.</hi>
+            </l>
+            <l>How villany doth cunningly deceive,</l>
+            <l>And good and bad together interweave;</l>
+            <l>He Praies, Inveighs, Commends, Contemns, Extols,</l>
+            <l>Approves, Reproves, Loves, Scornes, Obeys, Controls,</l>
+            <l>Admits, Commits, Omits, Permits, ſubmits,</l>
+            <l>Remits, and Limmits, as his humor fits,</l>
+            <l>Toſſing his Soveraignes Honour to and fro,</l>
+            <l>Even as his ſawcy Idle Braines do Crow,</l>
+            <l>And with his Rimes doth Knaves and Fooles inſpire</l>
+            <l>To blow the Bellowes of Rebellious fire.</l>
+            <l>Hell never Spewd worſe villaines then are thoſe</l>
+            <l>That weekly (weakly) Raile in Rime and Proſe,</l>
+            <l>'Mongſt which accurſed Crew, a part thou Bearſt,</l>
+            <l>And in the Divells great name Rebellion Rearſt.</l>
+            <l>For had not that black Breed of <hi>Cerberus,</hi>
+            </l>
+            <l>
+               <hi>Scout, Dove, Diurnall,</hi> and <hi>Britannicus,</hi>
+            </l>
+            <l>Wiſe <hi>Wither, Booker,</hi> and the damned ſwarmes</l>
+            <l>Of Rake-hells, Animated <hi>Englands</hi> harmes,</l>
+            <l>All our Contentions had been reconcil'd</l>
+            <l>Long ſince, and bleſſed <hi>Peace</hi> had gently ſmil'd.</l>
+            <l>Wer't not for theirs and thine ill working Braine,</l>
+            <l>The King had Iuſtly had His own againe:</l>
+            <l>Th'affrighting front of bloody Warre had not</l>
+            <l>Diſturb'd no honeſt <hi>Engliſh</hi> man or <hi>Scot.</hi>
+            </l>
+            <l>Thouſands of Soules are from their Bodies parted,</l>
+            <l>(By Lyes and Curſed Libellers perverted)</l>
+            <l>
+               <pb n="4" facs="tcp:123392:6"/>
+Which may be fear'd did to perdition fall</l>
+            <l>Before their Bodies could have Buriall.</l>
+            <l>You Mungrell Whelps of Hells Infernall Litter,</l>
+            <l>What is the cauſe that makes your hate ſo bitter,</l>
+            <l>Is it becauſe you thinke your ſelves more Righteous,</l>
+            <l>Or (in the Devills naine) wherefore thus deſpight ye us?</l>
+            <l>Is it becauſe the King's a Proteſtant</l>
+            <l>That 'gainſt him you are joyn'd in Covenant?</l>
+            <l>Is it becauſe he meanes to be ſo ſtill</l>
+            <l>And never meanes to change, you wiſh him ill?</l>
+            <l>Is it becauſe hee's Mercifull and Iuſt</l>
+            <l>You thoſe Indignities upon him thruſt,</l>
+            <l>Is it becauſe he ne're intended wrong</l>
+            <l>That you doe hold his Life and Raigne too long?</l>
+            <l>Are theſe the Cauſes wherefore you diſlike him</l>
+            <l>Are theſe th' occaſions why your Malice ſtrike him?</l>
+            <l>Goe hang your ſelves baſe Villaines, he ſhall Live</l>
+            <l>And flouriſh, and his God will Guerdon give</l>
+            <l>To you with <hi>Judas,</hi> and <hi>Achitophell</hi>
+            </l>
+            <l>Where unrepenting Curſed Rebells dwell.</l>
+            <l>What Armes into the Field can Traitors bring</l>
+            <l>But Arm'd Impiety againſt the King;</l>
+            <l>Is not the Perſon of the King ſo high</l>
+            <l>As God Almighties ſacred Deputie?</l>
+            <l>Then what are thoſe blaſphemous <hi>Rabſhakaes</hi>
+            </l>
+            <l>
+               <hi>Anathema's,</hi> and <hi>Maranathama'es?</hi>
+            </l>
+            <l>
+               <note place="margin">Pſal. 14. v. 4, 5, 6, 7.</note>
+               <hi>God lookes and ſees how they doe plot and plod</hi>
+            </l>
+            <l>
+               <hi>They underſtand not, nor ſeeke after God,</hi>
+            </l>
+            <l>
+               <hi>Abhominable out ot'h way they'r gone</hi>
+            </l>
+            <l>
+               <hi>Ther's none doth good amongst them, no not one,</hi>
+            </l>
+            <l>
+               <hi>Their Throats are open Sepulchers, their Tongues</hi>
+            </l>
+            <l>
+               <hi>Have ly'de deceitfully with ſlandring Wrongs,</hi>
+            </l>
+            <l>
+               <hi>And underneath their Lips</hi> Aſpes <hi>poyſon is,</hi>
+            </l>
+            <l>
+               <hi>Their Mouthes are full of Curſing bitternes,</hi>
+            </l>
+            <l>
+               <hi>Their Feet are</hi> very <hi>ſwift mens blood to ſhed</hi>
+            </l>
+            <l>
+               <hi>Haples deſtruction in the wayes they tread,</hi>
+            </l>
+            <l>
+               <hi>The way of Peace they have not knowne, and there</hi>
+            </l>
+            <l>
+               <hi>Before their eyes of God there is no feare.</hi>
+            </l>
+            <l>
+               <pb n="5" facs="tcp:123392:6"/>
+Thus is the foureteenth <hi>Pſalme</hi> in <hi>Davids</hi> ſtile</l>
+            <l>Apply'd to ſuch as dare the King Revile.</l>
+            <l>And what art thou then, but a falſe pretender</l>
+            <l>That ſeekes to Ruinate the Faiths Defender:</l>
+            <l>To blow Warres Trumpet, without warrant for it,</l>
+            <l>Is foule Rebellion, all good men abhorre it.</l>
+            <l>And what hath Roguiſh Riming, Tricks and Ieeres</l>
+            <l>But ſet us all together by the Eares,</l>
+            <l>To Murder, Pilfer, Plunder, and oppreſſe,</l>
+            <l>To make Wives Widdowes, Children fatherleſſe,</l>
+            <l>The Father 'gainſt the Son, Son 'gainſt the Father,</l>
+            <l>And Brother againſt Brother force together,</l>
+            <l>Whil'ſt <hi>Chriſtian Faith,</hi> you Hipocrites or'ewhelme.</l>
+            <l>And <hi>Publique Faith</hi> hath Cheated all the Realme.</l>
+            <l>This (Maſter <hi>George</hi>) is your great <hi>Trades</hi>
+               <note n="*" place="margin">A great ſhip that uſed to go to the Eaſt Indies, called the <hi>Trade's Encreaſe.</hi>
+               </note> 
+               <hi>Enereaſe</hi>
+            </l>
+            <l>To Write, Raile, and diſturbe your Countryes Peace,</l>
+            <l>In Rime to render our <hi>Dread Soveraigne</hi> odious,</l>
+            <l>For your great profit hath<g ref="char:punc">▪</g> been much commodious,</l>
+            <l>Had'ſt thou not Writ, and Raild as thou haſt done</l>
+            <l>Th'adſt been no <hi>Captaine,</hi> Th'adſt bin hangd as ſoone;</l>
+            <l>The onely way to flouriſh, and goe brave,</l>
+            <l>Is to turne <hi>Rebell, Hipocrite and Knave,</hi>
+            </l>
+            <l>If I my ſelfe, would but a Villaine be</l>
+            <l>I ſhould be Mounted and prefer'd like thee.</l>
+            <l>Yet 'tis not feare of Heavens Eternall wrath</l>
+            <l>Or Hells dam'd Tortures, me reſtrained hath,</l>
+            <l>But filiall feare of God, in me beares ſway,</l>
+            <l>That I in love his Ordinance obay,</l>
+            <l>And thoſe that doe not (I doe feare) their fate</l>
+            <l>Will be the portion of the Reprobate.</l>
+            <l>But whither <hi>Wither,</hi> doth my fancy ſlee?</l>
+            <l>I ought not write in ſerious phraſe to thee,</l>
+            <l>Thou precious moſt pernicious <hi>Prelate</hi> hater</l>
+            <l>To <hi>Durhams</hi> Reverend <hi>Biſhop</hi> thou waſt <hi>Cater,</hi>
+            </l>
+            <l>Or Steward, where to make thy 'Compts ſeem cleare,</l>
+            <l>Thou mad<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'ſt two Monthes of <hi>July</hi> in one yeare,</l>
+            <l>And in the totall Reck'ning it was found</l>
+            <l>Thou Cheat'ſt the <hi>Biſhop</hi> of five hundred pound.<note place="margin">D<hi rend="sup">r</hi> 
+                  <hi>Howſer.</hi>
+               </note>
+            </l>
+            <l>
+               <pb n="6" facs="tcp:123392:7"/>
+But thou didſt hold it for no ſinne at all,</l>
+            <l>To Rob the Perſon that's <hi>Epiſcopall.</hi>
+            </l>
+            <l>This is no Crime in thee or thy Compeeres,</l>
+            <l>Tub-Preaching Tinkers, Pedlars, Pulpitteeres,</l>
+            <l>Whoſe beſt Religion, is moſt irreligious,</l>
+            <l>Who think Church Spoylers are not ſacrilegious,</l>
+            <l>Who hold the Clergy as ſuperfluous People,</l>
+            <l>And make the <hi>Chancell</hi> baſer then the Steeple.</l>
+            <l>Theſe are as arrant Rogues as ever twangd</l>
+            <l>And I doe wiſh them in the Bell-ropes hangd.</l>
+            <l>But leaving unto God, the wronged Clergie</l>
+            <l>Now, with a freſh Charge, <hi>Wither</hi> I muſt charge ye,</l>
+            <l>And in a true way, I will make Relation,</l>
+            <l>That thy beſt Writings are Equivocation.</l>
+            <l>And that thy mind and <hi>Muſe,</hi> were never friends<g ref="char:punc">▪</g>
+            </l>
+            <l>In any goodneſſe, but for private ends.</l>
+            <l>But leaving that a while, I will diſcourſe</l>
+            <l>And once i'le put <hi>the Cart before the Horſe;</hi>
+            </l>
+            <l>
+               <note place="margin">His Picture graven before ſome of his Books, the Commenda<g ref="char:EOLhyphen"/>tory Verſes to the Picture, were written by himſelfe.</note>Thy Picture to thy Bookes was Printed, put</l>
+            <l>With curious Workmanſhip engrav'd and cut:</l>
+            <l>And Verſes under it, were wiſely pend</l>
+            <l>Which fooles ſuppos'd were written by ſome friend,</l>
+            <l>Which God knowes, thou, I, and a Thouſand know,</l>
+            <l>Thoſe lines (thy ſelfe praiſe) from thy ſelfe did flow<g ref="char:punc">▪</g>
+            </l>
+            <l>Thou dotedſt ſo upon thine owne Effigies,</l>
+            <l>It look'd ſo ſmugge, Religious, Irreligious,</l>
+            <l>So Amiable Lovely, Sweet and Fine,</l>
+            <l>A Phiſnomie Poetique and Divine:</l>
+            <l>'Till (like <hi>Narciſſus</hi>) gazing in that Brook,</l>
+            <l>Pride drown'd thee, in thy ſelfe admiring Book.</l>
+            <l>Yet for your Valour, you deſerv'd much fame</l>
+            <l>You Conquer'd <hi>Farnham</hi> Caſtle, and did tame</l>
+            <l>And vanquiſht all the Cavaliers ſo Bravely,</l>
+            <l>(Look in a Glaſſe, and you ſhall ſee the Knave Lye)</l>
+            <l>A Dogge, two Cats, and an old Woeman were</l>
+            <l>Your oppoſites, when as you entred there,</l>
+            <l>For which great ſervice, had your Maſters might,</l>
+            <l>And power withall; you had bin dubd a Knight.</l>
+            <l>
+               <pb n="7" facs="tcp:123392:7"/>
+But 'tis no matter, they might doe as well,</l>
+            <l>They may Create you halfe a Colonell.</l>
+            <l>In <hi>Farnham Caſtle,</hi> thou waſt great Commander,</l>
+            <l>And Thoughtſt thy ſelfe more great then <hi>Alexander,</hi>
+            </l>
+            <l>Yet in thy Carriage, Valour, Faſhion, Forme,</l>
+            <l>Thou waſt a Strong, Infirme, Stout, Feeble Worme.</l>
+            <l>For when thy Maſter Rebels call'd thee out,</l>
+            <l>With all thy fellowes of that damned Rout,</l>
+            <l>Thy Cowardiſe, thou finely did'ſt diſguiſe,</l>
+            <l>Thy ſight was dim, the blame was in thine Eyes,</l>
+            <l>For want of ſight, thou durſt not ſee to Fight,</l>
+            <l>But like a Rebell Divell couldſt ſee to Write.</l>
+            <l>'Tis well thou waſt not Valiant, as thy Pen</l>
+            <l>Emblazons thee, th'hadſt then bin Man of Men,</l>
+            <l>Great <hi>Agamemnon</hi> to thee were a Toy,</l>
+            <l>And Brave <hi>Achilles</hi> but a prating Boy.</l>
+            <l>
+               <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> a poor Silly Stoick Aſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,</l>
+            <l>And <hi>Hector</hi> for a Foole in Armes ſhould paſſe.</l>
+            <l>Oh had'ſt thou had the profit of thine Eyne,</l>
+            <l>Th'adſt beaten purblind all the Worthies 9.</l>
+            <l>Thus blind with Ignorance, and Impudence,</l>
+            <l>And Wall-ey'de in thy ſeared Conſcience,</l>
+            <l>Thy Gooſe-quill, hath Revil'd the King and Law,</l>
+            <l>When as thy Sword thou never dar'ſt to draw,</l>
+            <l>For which from both ſides thou deſerv'ſt a Fee,</l>
+            <l>A Triple Twiſt at the Triangle Tree.</l>
+            <l>And now I'le leave to fiſh in troubled Waters,</l>
+            <l>Let's talke a little of ſome other Matters;</l>
+            <l>'Tis knowne that once within theſe thirty yeares,</l>
+            <l>Thou waſt in Jayle for ſcandalling ſome Peer<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s,</l>
+            <l>And 'tis not lawfull for a Satyres Pen,</l>
+            <l>To wrong the Honours of particular Men,</l>
+            <l>Which you did, not for any hate you bore</l>
+            <l>To Vice or Villany, but that therefore</l>
+            <l>You would be famous, and to Prizen Committed,</l>
+            <l>Whereby you ſeem'd moſt wonderfully Witted.</l>
+            <l>There, in the Marſhalſeas, whole flights of <hi>Gulls,</hi>
+            </l>
+            <l>Of <hi>Schiſmatiques,</hi> of <hi>Cuckolds, Knaves</hi> and <hi>Trulls,</hi>
+            </l>
+            <l>
+               <pb n="8" facs="tcp:123392:8"/>
+In Droves and Heardes, in Pilgrimage they came<g ref="char:punc">▪</g>
+            </l>
+            <l>(As Er'ſt Fooles did t'our Lady of <hi>Walſingham</hi>)</l>
+            <l>You were their <hi>Idoll Saint,</hi> and at your <hi>Shrine</hi>
+            </l>
+            <l>They offred <hi>Hecatombes</hi> of Coyne and Wine,</l>
+            <l>Sweet meates and Iunkets, (more then you could dreame)</l>
+            <l>Came flowing to you dayly like a ſtreame.</l>
+            <l>Thus to your <hi>Mill</hi> came tagge, ragge, great and ſmall,</l>
+            <l>You Ground, and (with the <hi>Cogges</hi>) took toll of all.</l>
+            <l>At laſt to give ſome Eaſe unto your, <hi>Mill</hi>
+            </l>
+            <l>You were Releaſt from Priz'n againſt your will.</l>
+            <l>Then was your Pockets Treaſure full to'th top,</l>
+            <l>Which (by degrees) might t'a Conſumption drop,</l>
+            <l>Then after that (by chance) met you and I</l>
+            <l>Where we us'de Complementall courteſy,</l>
+            <l>
+               <hi>And talkd of Poetry, and then I ſayd.</hi>
+            </l>
+            <l>
+               <hi>You (by the Muſes favour) was well payd,</hi>
+            </l>
+            <l>
+               <hi>Whilſt I (for my part) what ſoe're I writ</hi>
+            </l>
+            <l>
+               <hi>Though men approved and applauded it,</hi>
+            </l>
+            <l>
+               <hi>
+                  <hi>Yet</hi> fortune <hi>unto me, was ſtill unkind</hi>
+               </hi>
+            </l>
+            <l>
+               <hi>Bounty was faſt aſleep, or hard to find,</hi>
+            </l>
+            <l>
+               <hi>Verboſitie and Vapour was my Gaines</hi>
+            </l>
+            <l>
+               <hi>And Poverty the Portion of my Paines,</hi>
+            </l>
+            <l>
+               <hi>Though you found many an Ignorant</hi> Mecenas,</l>
+            <l>
+               <hi>Which made you fat, ſtill remain'd a</hi> Leane Aſſe,</l>
+            <l>Words like to thoſe, or much to this effect</l>
+            <l>I ſpake, and you this Anſwer did direct.</l>
+            <l>John, <hi>you must boldly doe, as I have don</hi>
+            </l>
+            <l>
+               <hi>Againſt great Perſons let your Verſes run,</hi>
+            </l>
+            <l>
+               <hi>Snarle at the State, and let your Satyre's pen</hi>
+            </l>
+            <l>
+               <hi>Write againſt Government, and Noblemen.</hi>
+            </l>
+            <l>
+               <hi>You muſt run wilfully into offence,</hi>
+            </l>
+            <l>
+               <hi>What though they call it ſawcy Impudence,</hi>
+            </l>
+            <l>
+               <hi>And ſo Commit you for't, as they did me</hi>
+            </l>
+            <l>
+               <hi>Then ſhall you Thrive, and be as you would be;</hi>
+            </l>
+            <l>
+               <hi>Your Books would ſell, your ſelfe get Coyn and Fame,</hi>
+            </l>
+            <l>
+               <hi>And then (like mine) Renown'd ſhall be your Name.</hi>
+            </l>
+            <l>I doe not ſay our talke was punctuall ſuch,</l>
+            <l>But what we ſpake imported full as much.</l>
+            <l>
+               <pb n="9" facs="tcp:123392:8"/>
+By which may be perceiv'd thou Wrot'ſt ſoodly</l>
+            <l>Not out of Hatred unto Acts ungodly,</l>
+            <l>By inſinuation to intrude</l>
+            <l>Into th'affections of the Multitude.</l>
+            <l>Thus from poor witleſſe Lumps of Ignorance.</l>
+            <l>Thou gatt'ſt Applauſe, Coyne, Cloaths, and Countenance.</l>
+            <l>As to their Coſt, the moſt of them can prove</l>
+            <l>Thou Cheat'ſt 'em of their Money and their love,</l>
+            <l>And now your <hi>Campo-Muſae</hi> hath found Grace</l>
+            <l>To grace you in a graceleſſe Captains Place.</l>
+            <l>Now dreadfull Warres, and Politique deſignes</l>
+            <l>Are the Effects of thy Prophetique Lines:</l>
+            <l>Armes, mighty Armes, and ſtrange Redoubted deed<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Are th' Iſſues now that from thy Muſe proceeds,</l>
+            <l>Th'aſt turnd thy <hi>Anagrams</hi> to <hi>Ambuſcadoes</hi>
+            </l>
+            <l>Thy <hi>Diagrams</hi> to terrible <hi>Bravadoes,</hi>
+            </l>
+            <l>Thy <hi>Chronograms</hi> to horrible <hi>Stockadoes,</hi>
+            </l>
+            <l>Thy <hi>Epigrams</hi> to deſp'rate <hi>Imbrocadoes,</hi>
+            </l>
+            <l>Thy <hi>Diſticks</hi> to <hi>Redoubts</hi> and <hi>Barricadoes,</hi>
+            </l>
+            <l>Thy <hi>Dactills</hi> and thy <hi>Spondees</hi> to Scalladoes,</l>
+            <l>Thy meaſur'd verſe to Marches and Soldadoes,</l>
+            <l>Thy <hi>Cantoes,</hi> and <hi>Acroſticks</hi> to <hi>Granadoes,</hi>
+            </l>
+            <l>Thy <hi>Canzoes</hi> to <hi>Brigades,</hi> and <hi>Canvaſadoes,</hi>
+            </l>
+            <l>Thy <hi>Dialogues</hi> to Bruiſing <hi>Baſtinadoes,</hi>
+            </l>
+            <l>Thy <hi>Prologues</hi> to moſt Barbarous <hi>Stab-adoes,</hi>
+            </l>
+            <l>Thy <hi>Catalogues</hi> to Vagrant <hi>Renegadoes,</hi>
+            </l>
+            <l>Thy <hi>Epilogues</hi> to Warlike <hi>Pallizadoes,</hi>
+            </l>
+            <l>And <hi>Warwick</hi> playes th'uſurping <hi>Adelantade,</hi>
+            </l>
+            <l>For <hi>Englands</hi> ruine rules the Kings <hi>Armado,</hi>
+            </l>
+            <l>But 'tis my hope your ends will prove <hi>Mockad<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+            </l>
+            <l>Not worth a ragge of rotten welch <hi>Freezado,</hi>
+            </l>
+            <l>And thou eſteemed leſſe then a <hi>Lantzprezado.</hi>
+            </l>
+            <l>For if thou durſt lay by thy curſed Spleen,</l>
+            <l>And ſpeak but Loyally of King and Queen,</l>
+            <l>Ceaſe to bely the Lords, and but deny</l>
+            <l>Thou never ſlandred'ſt them with Papiſtry;</l>
+            <l>Ceaſe to Abuſe the Biſhops, and the Tribe</l>
+            <l>Of ſacred <hi>Levi,</hi> ceaſe thou curſed <hi>Scribe,</hi>
+            </l>
+            <l>
+               <pb n="10" facs="tcp:123392:9"/>
+T'applaud foule Treaſon, and approve all thoſe,</l>
+            <l>That to Gods Church the King, and Peace are foes:</l>
+            <l>Seek but thy Countreys Peace in word and deed,</l>
+            <l>Thy Maiſters then will hang thee for thy Meede,</l>
+            <l>Be but an Honeſt man two daies together,</l>
+            <l>No more a Captain then, but Poor <hi>George Wither.</hi>
+            </l>
+            <l>Should I but anſwer every Lye and Line,</l>
+            <l>In that Ba<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Balderdaſh poor <hi>Thing</hi> of thine,</l>
+            <l>I might b'accounted ſo, ſo, Thus and Thus,</l>
+            <l>An Aſſe impertinent, <hi>Voluminus,</hi>
+            </l>
+            <l>A Murderer of Paper, a time Waſter,</l>
+            <l>A Folio Foole, a <hi>Zany Poetaſter,</hi>
+            </l>
+            <l>Thy Apiſh Coxcombe (in thy imitation,</l>
+            <l>Like thee) the Squirt-Rime of our Troubled Nation,</l>
+            <l>One of the Sages of Old <hi>Gothams</hi> Clarkes</l>
+            <l>That makes reply to every dog that Barkes.</l>
+            <l>H're I'le ſo be thy means for Maintenance,</l>
+            <l>Let thy Applauders dye in Ignorance,</l>
+            <l>For 'tis moſt probable thy jeeres and Lying,</l>
+            <l>Thou wrot'ſt in hope of Gaine by my Replying.</l>
+            <l>And if men truly would thy Book examine,</l>
+            <l>There may they find both Senſe and Reaſons famine,</l>
+            <l>All broken Numbers, fractions, faction, fictions,</l>
+            <l>Meer Mutabilities, ſelfe Contradictions,</l>
+            <l>
+               <hi>In Dock, out Nettle,</hi> here, there, every where,</l>
+            <l>And in concluſion, no where, here nor there,</l>
+            <l>The Phraſe where with thy Verſe are Beawtifide,</l>
+            <l>Is onely where the King is Vileifide,</l>
+            <l>And that for which thou moſt art Gratifide,</l>
+            <l>Hath made a Thouſand fooles miſ-edifide;</l>
+            <l>With impudence thou art ſo fortifide,</l>
+            <l>And with Hipocriſie ſo Quallifide,</l>
+            <l>And (to the World) thy ſelfe haſt juſtifide,</l>
+            <l>That from the World thou art cleane Mortifide,</l>
+            <l>All which thy Boaſting Rimes have certifide,</l>
+            <l>For under thine own hand 'tis Teſtifide,</l>
+            <l>And by a crew of Rebels Notifide,</l>
+            <l>(Such as with Ignorance are Stupifide)</l>
+            <l>
+               <pb n="11" facs="tcp:123392:9"/>
+That thoſe bad times ſo fowle and Putrifide,</l>
+            <l>By thy rare Writings are much purifide:</l>
+            <l>And as we finde by warre ſo mundifide,</l>
+            <l>Vnparallel'd and unexemplifide,</l>
+            <l>(Or at the leaſt ſo neatly rectifide)</l>
+            <l>That thou deſerveſt to be ſtellifide,</l>
+            <l>Or Idoliz'd and almoſt Deifide,</l>
+            <l>In the mean time thy fame is Magnifide,</l>
+            <l>Thy perſon wondred at, and dignifide,</l>
+            <l>And (if they could) thou ſhould'ſt be ſatisfide,</l>
+            <l>(Although themſelves were double Damnifide)</l>
+            <l>Thy Female faire, adorn'd and turpifide,</l>
+            <l>Should, for thy ſervices be Ladifide:</l>
+            <l>All this by Fooles and Rebels Ratifide,</l>
+            <l>Is by all wiſe men ſcorn'd and Nullifide.</l>
+            <l>Our Miſeries thou haſt not mollifide,</l>
+            <l>Thou our ealamities haſt amplifide,</l>
+            <l>And this my Satyr's Laſh hath verifide.</l>
+            <l>This thou maiſt ſee, and this thou muſt allow,</l>
+            <l>I can Rand words, and Rime as well as thou:</l>
+            <l>Speak and write Nonſence, even by thy example,</l>
+            <l>(Though not like thine Admir'd abroad ſo ample)</l>
+            <l>Like to the inundation of a flame,</l>
+            <l>Or like a Mad Lord, never out of frame,</l>
+            <l>Or like the Entrailes of a purple Snaile,</l>
+            <l>Or like the wagging of the Dog-ſtarres Taile,</l>
+            <l>Or like the Froſt and Snow that falls in <hi>June,</hi>
+            </l>
+            <l>Or like ſweet Muſique, that was ne're in Tune:</l>
+            <l>Or like a Ship that wants ſides, Stem and Keele,</l>
+            <l>Or like the Marrow-bones of Fortunes Wheele,</l>
+            <l>Even ſuch is <hi>Wither,</hi> like all theſe or nothing,</l>
+            <l>Yet like himſelfe, in every good mans Loathing.</l>
+            <l>And is not this rare Nonſence, prethee tell,</l>
+            <l>Much like thy writing, if men marke it well:</l>
+            <l>For Nonſence is Rebellion, and thy writing,</l>
+            <l>Is nothing but Rebellious Warres inciting.</l>
+            <l>Baſe Scandall, Lyes, and Diſobedience,</l>
+            <l>Is moſt Ridiculous, and poor Nonſence,</l>
+            <l>
+               <pb n="12" facs="tcp:123392:10"/>
+Ther's nothing is true ſenſe, but what is true,</l>
+            <l>And Hanging is good ſenſe for ſuch as you.</l>
+            <l>
+               <hi>Apollo</hi> made not thee his onely Hoire</l>
+            <l>In Poetry, I gat ſome part for my ſhare,</l>
+            <l>And though, with Art thou partly art endo'wd,</l>
+            <l>Yet God and Nature, me ſome Guifte allow'd:</l>
+            <l>Which I (as my poor Tallent will extend)</l>
+            <l>To Vindicate my wronged King I'le ſpend.</l>
+            <l>Nor am I bound (what e're thou may'ſt ſuggeſt)</l>
+            <l>To think mongſt <hi>Englands</hi> Poets thou art beſt,</l>
+            <l>Thy Verſes many wayes applauded are</l>
+            <l>Yet many that Boaſt leſſe may reach as farre.</l>
+            <l>Doth all invention in thy Braine Conſiſt,</l>
+            <l>Art thou the Bounds, the Limits and the Liſt,</l>
+            <l>The <hi>Longitude</hi> of Wit and Honeſty,</l>
+            <l>The <hi>Latitude</hi> of true Integrity;</l>
+            <l>Art thou th' <hi>Hyporbole</hi> wonder, whoſe Rare Partes</l>
+            <l>Is <hi>Non Plus <g ref="char:V">Ʋ</g>ltra,</hi> of all <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Arte<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>Art thou all this, the Devill thou art. Bragge on,</l>
+            <l>My ſelfe once gat a Sippe of <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llicon,</hi>
+            </l>
+            <l>Which with Enthuſiaſmes did infuſe</l>
+            <l>Into my Braines ſome Rap'ts of every Muſe,</l>
+            <l>And therefore, I am ſure, thou haſt not all,</l>
+            <l>I have my Portion too (although but ſmall.)</l>
+            <l>Which i'ft t'were leſſe by halfe, I dare aſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay,</l>
+            <l>To Cope with thee, in any Loyall way.</l>
+            <l>But to write Verſe, that may Rebellion breed</l>
+            <l>There in thou art too hard for me indeed.</l>
+            <l>In the meane ſpace, Thou Pigmey Impe of Warr,</l>
+            <l>Rodomontado, Champion for the <hi>Par</hi>-<note n="*" place="margin">Theſe words are purpoſely clo<g ref="char:EOLhyphen"/>ven or ſplit, for the under<g ref="char:EOLhyphen"/>ſtanding of the Learned, Illiterate, Grave, Ridi<g ref="char:EOLhyphen"/>culous Rea<g ref="char:EOLhyphen"/>der.</note>
+            </l>
+            <l>
+               <hi>Lament,</hi> we grieve for grieved <hi>Englands</hi> woe,</l>
+            <l>Whilſt every true Man's driven from his <hi>Po</hi>-*</l>
+            <l>
+               <hi>Seſſions</hi> may try thoſe Knaves that look ſo big;</l>
+            <l>And then 'tis ten to one, but Honeſt <hi>Grig</hi>-*</l>
+            <l>
+               <hi>Or I,</hi> in Lofty Verſe thy praiſe ſhall Sing,</l>
+            <l>And Thou high Mounted to thy Merits, Swing.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
